@@ -1,0 +1,9 @@
+
+Mr John Smith
+DOB: 01-01-1990
+ciqprofile
+Address: 5555 Lincoln wy, San Jose,CA 95128
+EMAIL: jsmith@gmail.com
+SSN: :111-23-3456
+Gender:M
+
